@@ -33,7 +33,8 @@
   ],
   "require-dev": {
     "satooshi/php-coveralls": "dev-master",
-    "sebastianbergmann/phpcov": "1.1.0"
+    "sebastianbergmann/phpcov": "1.1.0",
+    "phpunit/phpunit": "3.7.*@stable"
   },
   "bin": ["composer/bin/coveralls"]
 }
