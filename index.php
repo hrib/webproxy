@@ -9,7 +9,7 @@ if (isset($_POST['url'])) {
 ?>
 
 <head>
-    <title>WebProxy</title>
+    <title>MeuWebPro</title>
 </head>
 <body>
     <form method="post" action="?">
